@@ -1,1 +1,1 @@
-#Pulse:https://pulse.frontsaf.ru/
+Pulse:https://pulse.frontsaf.ru/
