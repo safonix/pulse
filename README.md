@@ -1,4 +1,4 @@
-Pulse:https://pulse.frontsaf.ru/
+
 
 # Landing Page - Pulse
 
@@ -15,4 +15,4 @@ Pulse:https://pulse.frontsaf.ru/
   ### + Поработал с библиотеками animate.css и wow.js для создания анимаций
   ### + Адаптировал вёрстку под мобильные устройства
 
-[Pulse](https://pulse.frontsaf.ru/)
+### [Pulse](https://pulse.frontsaf.ru/)
